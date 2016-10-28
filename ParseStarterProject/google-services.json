@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "10010493693",
+    "firebase_url": "https://secondopinion-5a831.firebaseio.com",
+    "project_id": "secondopinion-5a831",
+    "storage_bucket": "secondopinion-5a831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10010493693:android:496897f7b68def35",
+        "android_client_info": {
+          "package_name": "com.parse.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10010493693-31sh36pq7dka0voigrjutusj47sfrccv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
